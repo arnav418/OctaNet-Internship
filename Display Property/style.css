@@ -1,0 +1,28 @@
+*{
+    margin: 0%; 
+    padding: 0%;
+    box-sizing: border-box;   
+}
+
+body{
+    height: 200vh;
+    }
+
+nav{
+    background-color: aqua;
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    z-index: 1;
+}
+
+p{
+    background-color: beige;
+    position: relative;
+    display: flex;
+    text-align: justify;
+    top: 30%;
+    width: 500px;
+    height: 800px;
+    
+}
